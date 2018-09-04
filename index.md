@@ -18,15 +18,13 @@ Music for the Moving Image allows you to create original music and sound design 
 An initial series of practical exercises shall encourage you to develop a range of compositional techniques, using appropriate computer software. Assessment is via the production of a portfolio of materials accompanied by a brief commentary that should place your work in the context of some of the current trends in film/music practice.
 
 ## communication
-Best if you could email me and start your subject with 'M4MI'. 
+Best if you could email me and start your subject with 'M4MI'.
 
 We also have a [Facebook group](https://www.facebook.com/groups/1091343414312213). Please join!
 
 ## attendance
 
 Your attendance to the classes will be monitored [link]. 
-
-## 
 
 ---
 

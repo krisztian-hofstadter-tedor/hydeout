@@ -150,8 +150,8 @@ body {
     overflow-y: auto;
     -webkit-overflow-scrolling: touch;
     > * {
-      max-height: 100vh; 
-      overflow-y: auto; 
+      max-height: 100vh;
+      overflow-y: auto;
       -webkit-overflow-scrolling: touch;
     }
   }
@@ -303,4 +303,14 @@ body {
       order: -1;
     }
   }
+}
+
+/* -----------------------------------------------------------
+  List customisation
+  added by tEdör
+----------------------------------------------------------- */
+
+
+ul.myposts {
+    list-style-type: none;
 }
