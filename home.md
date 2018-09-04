@@ -1,3 +1,8 @@
+---
+layout: home_page
+title: home
+---
+
 
 ## Music for the Moving Image
 
