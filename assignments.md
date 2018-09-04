@@ -1,6 +1,6 @@
 ---
 layout: page
-title: outline
+title: assignments
 sidebar_link: true
 ---
 
