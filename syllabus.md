@@ -1,6 +1,6 @@
 ---
 layout: page
-title: outline
+title: syllabus
 sidebar_link: true
 ---
 
