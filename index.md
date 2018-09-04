@@ -1,6 +1,6 @@
 ---
-layout: home_page
-title: music_for_the_moving_image
+layout: page
+title: music for the moving image
 ---
 
 ARU Module code: MOD003619  
