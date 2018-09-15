@@ -9,7 +9,9 @@ tags:
   - books
 ---
 
-## ARU Reading List
-Can be found [here](https://anglia.rl.talis.com/lists/C504AAEC-5E5A-3197-FF92-5450E0183839.html).
+<!--
+todo: duplicate this lis in Markdown;
+-->
 
-duplicate this as a list for non ARU
+## ARU Reading List
+Can be found [here](https://anglia.rl.talis.com/lists/9E63BB1B-E8FC-6F90-1082-930B0A6BAB2A.html).
