@@ -28,7 +28,7 @@ Compose music that conveys information from one poem by Jonathan Noel Lloyd.
 
 ### a2 dance of light interpretations <a name="a2"></a>
 
-Compose music that is in synchresis with on art video by Rhea Quien.
+Compose music that is in synchresis with one art video by Rhea Quien.
 
 ### a3 short films <a name="a3"></a>
 
@@ -50,7 +50,7 @@ There are two main parts to your submission:
 
 1) Your portfolio needs to be submitted as a webpage on GitHub, where according to the NDA form, your embedded video material **must** be protected with a password.
 
-2) On Canvas you need to submitted a pdf file with your GitHub url and the password protecting your videos.
+2) On Canvas you need to submit a pdf file with your GitHub url and the password protecting your videos.
 
 A template for this GitHub website will be provided and explained further in class.
 
