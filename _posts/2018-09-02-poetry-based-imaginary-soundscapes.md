@@ -90,5 +90,8 @@ Key: kettő, kilenc, tíz, tizenhárom, tizennyolc, nyolc (in order).
 
 Any other ideas?
 
+## references
 
-<br>
+### reading
+
+* Schafer, R. M., 1974. The new soundscape. England Universal. **Ch.1. Yes, but is it music?** Digitalised version  [here](http://content.talisaspire.com/anglia/bundles/57e3fc9e4469eefd428b457c). // This writing should encourage you to think of all sounds as potential building blocks for your composition;
