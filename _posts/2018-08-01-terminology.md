@@ -1,6 +1,7 @@
 ---
 layout: post-simple
 title: "terminology"
+permalink: terminology
 categories:
   - resources
 tags:

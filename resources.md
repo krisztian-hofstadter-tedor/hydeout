@@ -2,6 +2,7 @@
 layout: page
 title: resources
 sidebar_link: true
+permalink: resources
 tags:
   - networking
   - resources

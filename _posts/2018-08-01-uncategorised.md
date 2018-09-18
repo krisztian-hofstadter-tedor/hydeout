@@ -1,6 +1,7 @@
 ---
 layout: post-simple
 title: "uncategorised"
+permalink: uncategorised
 categories:
   - resources
 tags:

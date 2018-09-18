@@ -1,6 +1,7 @@
 ---
 layout: post-simple
 title: "online courses"
+permalink: online-courses
 categories:
   - resources
 tags:

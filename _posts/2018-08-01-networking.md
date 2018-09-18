@@ -1,6 +1,7 @@
 ---
 layout: post-simple
 title: "networking"
+permalink: networking
 categories:
   - resources
 tags:
