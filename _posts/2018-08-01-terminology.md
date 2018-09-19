@@ -13,33 +13,27 @@ tags:
 ## Music
 
 **Field Recording**   
-In its broadest sense, ‘field recording’ refers to the process of capturing sound outside the controlled confines of a studio. (From [ableton.com](https://www.ableton.com/en/blog/art-of-field-recording/)). More about this field recording in [this article](http://www.factmag.com/2014/11/18/a-beginners-guide-to-field-recording/) by Lawrence English.
-
-In a nutshell here the microphone doesn't move and recorded material is not edited (perhaps enhanced a bit with EQ).
+"In its broadest sense, ‘field recording’ refers to the process of capturing sound outside the controlled confines of a studio." ([Ableton](https://www.ableton.com/en/blog/art-of-field-recording/)). More info in [this article](http://www.factmag.com/2014/11/18/a-beginners-guide-to-field-recording/) by Lawrence English. The microphone does not move and recorded material is not edited, perhaps enhanced a bit with EQ.
 
 **Soundwalk**    
-Soundwalking is a creative and research practice that involves listening and sometimes recording while moving through a place at a walking pace. It is concerned with the relationship between soundwalkers and their surrounding sonic environment. By [Andra McCartney](https://soundwalkinginteractions.wordpress.com/2010/09/27/soundwalking-creating-moving-environmental-sound-narratives/).  
-
-Basically it is kinda like a moving field recording.
+"Soundwalking is a creative and research practice that involves listening and sometimes recording while moving through a place at a walking pace. It is concerned with the relationship between soundwalkers and their surrounding sonic environment." ([Andra McCartney](https://soundwalkinginteractions.wordpress.com/2010/09/27/soundwalking-creating-moving-environmental-sound-narratives/)). It is kind of a _moving_ field recording.
 
 **Soundscape**   
-Soundscape, therefore, is not about simply presenting pre-recorded soundscapes, but in telling a story through control and manipulation of these pre-recorded soundscapes. (From [EARS2 website](http://ears2.dmu.ac.uk/learning-object/soundscape-music/)). Example: Murray Schafer's [Listen](https://www.youtube.com/watch?v=5q1rpNNnCUc). Changes made to recordings with filtering, splicing, mixing, etc. Some composers mainly use real (natural) some include unreal (more abstract). The term *soundscape* was coined by Canadian composer R. Murray Schafer. Get to know him a bit:   [1](https://www.youtube.com/watch?v=Hu4au_4Jlfo&index=11&list=PL1ca6p_QlIYc4cm93YeCb1IMdkW-bshLd),[2](https://www.youtube.com/watch?v=JX9VzICmKpA),[3](https://www.youtube.com/watch?v=ancEllwXku4)
-
-Basically it is an edited soundwalk (+).  
+"Soundscape, therefore, is not about simply presenting pre-recorded soundscapes, but in telling a story through control and manipulation of these pre-recorded soundscapes." ([EARS2 website](http://ears2.dmu.ac.uk/learning-object/soundscape-music/)). A good example is Murray Schafer's [Listen](https://www.youtube.com/watch?v=5q1rpNNnCUc). Changes can be made to recordings with filtering, splicing, mixing, etc. Some composers only use real (natural) sounds, some include unreal (more abstract) sounds as well. The term *soundscape* was coined by Canadian composer R. Murray Schafer. Get to know him a bit:   [1](https://www.youtube.com/watch?v=Hu4au_4Jlfo&index=11&list=PL1ca6p_QlIYc4cm93YeCb1IMdkW-bshLd),[2](https://www.youtube.com/watch?v=JX9VzICmKpA),[3](https://www.youtube.com/watch?v=ancEllwXku4). Basically, as soundscape is an edited, further organised soundwalk.  
 
 **Imaginary Soundscape**   
-There is no real definition for the term 'Imaginary Soundscape'. Just simply think of it as a **composition** that expresses an internal journey. Think about the meanings of the words [*imaginary*](http://www.thefreedictionary.com/imaginary), *sound* as well as it's suffix [*-scape*](http://dictionary.cambridge.org/dictionary/english/scape) and [journey](http://www.thefreedictionary.com/journey).
+There is no real definition for the term 'imaginary soundscape'. Just simply think of it as a **composition** that expresses an internal journey. Think about the meanings of the words [*imaginary*](http://www.thefreedictionary.com/imaginary), *sound* as well as it's suffix [*-scape*](http://dictionary.cambridge.org/dictionary/english/scape) and [journey](http://www.thefreedictionary.com/journey).
 
 * *imaginary* – existing only in the mind (internal);   
-* if *landscape* is a view of a wide place, than *soundscape* can be a journey in a ‘sonic picture’ of a wide place where we travel from on place to another.
+* if *landscape* is a view of a place, than *soundscape* can be a sound of a place, a ‘sonic picture’ of place where we travel from on side to another.
 
 journey = moving image (sound);
 
 Visual guidance: [landscape](https://www.google.co.uk/search?q=landscape&espv=2&biw=1175&bih=680&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiWu5Sz85_PAhWDyRoKHTu7AbcQ_AUIBigB) vs [imaginary landscape](https://www.google.co.uk/search?q=imaginary+landscape&espv=2&biw=1175&bih=680&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiKs9rS85_PAhULnBoKHX84ACwQ_AUIBigB) (e.g. 3D game);
 
-Further explanation in class.
+<br>
 
-
+<!--
 ## Film music
 
 **Real number and Cue number**   
@@ -53,10 +47,6 @@ This is a bit more confusing. It can either mean the 1) whole audio (sound effec
 
 **Diegetic, Onscreen, Offscreen, Nondiegetic**   
 Diegetic sound is when people in the movie can hear it ([link](http://filmsound.org/terminology/diegetic.htm)). Non diegetic sound is when people in the movie **cannot** hear it ([link](http://filmsound.org/terminology/diegetic.htm)). Diegetic can be on or off screen.
-
-<!--
-// ADD: Image of Chion text missing.
--->
 
 **Dubbing**    
 In the film industry, dubbing is a post-production process where music, dialogue and sound effects are mixed together to create the final audio/soundtrack for the film.
@@ -72,13 +62,19 @@ Also called talking pictures. The first movies with syncronised sound were calle
 
 There are many possible combinations of sound and image that work, however you cannot randomly choose any and expect them to 'work' together. What we as composers/sound designers for moving image are asked to do is to create sychresis. More [here](http://filmsound.org/chion/sync.htm) and in Chion's book.  
 
-<!--
-// ADD: Image of Chion text missing.
--->
-
 **Temp track**   
 A temporary track is a piece of precomposed/existing music that the director of the film wishes the composer to use as a guide when composing the original music for the film/game/theatre piece/ etc. The temp track usually goes with the rough cut of the film. Unfortunately many times directors get too attached to the temp track and want to composer to almost copy the expressions/orchestration/ ... Please watch [this](http://kottke.org/16/09/why-does-blockbuster-movie-music-all-sound-boring-and-the-same) on temp music used in Hollywood.
 
 ---
 
 Much more can be found [here](http://www.filmsound.org/terminology.htm).
+
+-->
+
+
+<!--
+// ADD: Image of Chion text missing.
+-->
+
+
+More `loading...`

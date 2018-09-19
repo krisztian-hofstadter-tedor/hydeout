@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "short history of film music"
-permalink: short history of film music
+permalink: short-history-of-film-music
+# published: false
 categories:
   - blog
 tags:

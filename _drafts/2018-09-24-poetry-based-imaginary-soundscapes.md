@@ -12,10 +12,30 @@ tags:
   - meditation
   - states of mind
 ---
+<!--
+
+todo
+
+### Consider Listening Types
+
+1. Chion;
+2. Oliveros;
+3. Purves;
+4. Meditation `
+
+[plugin:youtube](https://www.youtube.com/watch?v=dSPZZ0b5XCk)
+
+-->
+
+![](/../assets/img/tedor-krisztian-hofstadter-imagination.jpg)
 
 ## how to compose an imaginary soundscape?
 
-First, let's find out about some previous work. Try to match a composition played to the haikus.
+Let's start with an exercise.
+
+1. Read all haikus below.
+2. Listen to the compositions.
+3. Try to match a haiku to a composition.
 
 
 > My Life;-   
@@ -65,6 +85,15 @@ First, let's find out about some previous work. Try to match a composition playe
 <iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=3343104669/size=large/bgcol=ffffff/linkcol=63b2cc/artwork=none/transparent=true/" seamless><a href="http://tedor.bandcamp.com/album/m4mi-imaginary-soundscapes-2016" target="_blank" rel="nofollow" class="external-link no-image">M4MI Imaginary Soundscapes 2016 by ARU Music Students</a></iframe>
 
 Key: kettő, kilenc, tíz, tizenhárom, tizennyolc, nyolc (in order).
+
+<br>
+
+What was similar in these compositions?   
+Are the haikus compositions?   
+What does it mean to compose?   
+What was different?   
+Would you have interpreted poems in similar ways into music?  
+Now, that you have heard an example of someone's interpretation, is your imagination guided in a certain way?
 
 <br>
 
