@@ -3,6 +3,8 @@ layout: page
 title: music for the moving image
 ---
 
+![](/assets/img/tedor_k_hofstadter_music.jpg)
+
 Exploring   
 the relationship   
 between music and the moving image,   
