@@ -12,6 +12,7 @@ sound and vision.
 
 <br>
 
+<!--
 ## Blog
 
 <ul class="myposts">
@@ -28,3 +29,5 @@ sound and vision.
 <br>
 
 by [K.Hofstadter](https://khofstadter.info)
+
+-->
