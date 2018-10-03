@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "poetry based imaginary soundscapes"
-permalink: poetry-based-imaginary-soundscapes
+title: "interpret poetry to music"
+permalink: interpret-poetry-to-music
 categories:
   - blog
 tags:

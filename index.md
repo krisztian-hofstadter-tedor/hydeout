@@ -15,6 +15,8 @@ sound and vision.
 <!--
 ## Blog
 
+-->
+
 <ul class="myposts">
 {% for post in site.categories.blog reversed %}
     <li>{{ post.date | date: "%F" }} | <a href="{{ post.url }}">{{ post.title}}</a>
@@ -24,10 +26,4 @@ sound and vision.
 {% endfor %}
 </ul>
 
-`loading...`
-
-<br>
-
 by [K.Hofstadter](https://khofstadter.info)
-
--->
