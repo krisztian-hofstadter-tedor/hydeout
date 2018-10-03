@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "interpret poetry to music"
-permalink: interpret-poetry-to-music
+title: "imaginary soundscape: poetry to music"
+permalink: imaginary-soundscape-poetry-to-music
 categories:
   - blog
 tags:
@@ -27,11 +27,11 @@ todo
 
 -->
 
+First of all, why do we compose music? If we compose music because something inspired us, what is the difference between the inspiration being another piece of music, a painting or literature for instance poetry?
+
 ![](/../assets/img/tedor-krisztian-hofstadter-imagination.jpg)
 
-## how to compose an imaginary soundscape?
-
-Let's start with an exercise.
+Let's start with an exercise:
 
 1. Read all haikus below.
 2. Listen to the compositions.
@@ -97,7 +97,7 @@ Now, that you have heard an example of someone's interpretation, is your imagina
 
 <br>
 
-### possible workflow for a1
+### ideas for interpreting
 
 ![image](http://orig11.deviantart.net/e63b/f/2014/089/6/c/30_03_14_by_sanchiko-d7c8tdf.jpg)
 
@@ -119,7 +119,20 @@ Now, that you have heard an example of someone's interpretation, is your imagina
 
 Any other ideas?
 
-## references
+### Hearing vs listening
+
+To understand the difference between these, can help us get closer to a creative state of mind as well. In this video Pauline touches on some very interesting ideas:
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;"><iframe src="https://www.youtube.com/embed/_QHfOuRrJB8?rel=0&amp;showinfo=0" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no"></iframe></div>
+
+### Meditation
+
+To get into a meditative state of mind, there are many different methods, tools, techniques. Here a very simple one, inline with ideas around sound, hearing and listening.
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;"><iframe src="https://www.youtube.com/embed/NyKntOXIINI?rel=0&amp;showinfo=0" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no"></iframe></div>
+
+---
+---
 
 ### reading
 
