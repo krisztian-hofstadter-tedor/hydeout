@@ -18,7 +18,7 @@ sound and vision.
 -->
 
 <ul class="myposts">
-{% for post in site.categories.blog reversed %}
+{% for post in site.categories.blog %}
     <li>{{ post.date | date: "%F" }} | <a href="{{ post.url }}">{{ post.title}}</a>
     <br>
     </li>

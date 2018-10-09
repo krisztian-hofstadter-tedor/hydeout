@@ -54,9 +54,6 @@ sidebar_home_link:  true
 github:
   repo:           https://github.com/krisztian-hofstadter-tedor/m4mi
 
-disqus:
-  shortname:      hydeout
-
 google_analytics: UA-125796353-2
 
 future: true

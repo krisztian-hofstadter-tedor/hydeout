@@ -18,6 +18,16 @@ tags:
   - charlie chaplin
 ---
 
+<!--
+
+revise:
+
+https://www.youtube.com/watch?v=Ot5IryUt9SM
+
+-->
+
+
+
 To find inspiration, examples of good practice, we (briefly) investigating the moving image culture in historical context with examples of silent films, talkies, studio systems and important musical styles.
 
 * First there were films without any music, then music played by live musician and later audio was recorded and played in sync with the film.
