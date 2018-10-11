@@ -12,7 +12,7 @@ tags:
 
 ![](https://www.wfmt.com/wp-content/uploads/2018/08/4206008f-9803-4bdb-f23d-568019639dc0-e1533223375902-962x541.png)
 
-Artists have been interesting in translating visual to sound and vica versa.   
+Artists have been interested in translating visual information to sound and vica versa.   
 Does science do anything like this?   
 Why do we (they) do this?   
 
