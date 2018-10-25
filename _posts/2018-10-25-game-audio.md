@@ -63,9 +63,6 @@ Playing games makes you aware of the audio conventions to follow, or break. Now 
 
 ## Your Job
 
-![Chain of command](http://askinc-uae.com/wp-content/uploads/2016/08/chain-of-command.jpg)
-
-
 * specialised audio job e.g. composing (often AAA) vs everything from foley to mastering (often indie game)
 * in-house (often AAA) vs freelance/contract.
 
