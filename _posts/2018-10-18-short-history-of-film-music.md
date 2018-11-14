@@ -298,7 +298,8 @@ To extend
 * Karlin, F. and Wright, R., 2004. On the track, Routledge.
 * Hess, J., 2014. The History of Sound at the Movies, [https://www.youtube.com/watch?v=Ot5IryUt9SM](https://www.youtube.com/watch?v=Ot5IryUt9SM)
 
-
+## Interesting
+An Audio Timeline ([link](http://www.aes.org/aeshc/docs/audio.history.timeline.html))
 
 <!--
 
