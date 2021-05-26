@@ -26,4 +26,4 @@ sound and vision.
 {% endfor %}
 </ul>
 
-by [khofstadter](https://khofstadter.info)
+module leader: [khofstadter](https://khofstadter.info)
